@@ -2,7 +2,7 @@
 [![.NET](https://github.com/divanchyshyn/ListingsStatisticCalculator/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/divanchyshyn/ListingsStatisticCalculator/actions/workflows/dotnet.yml)
 [![CodeQL](https://github.com/divanchyshyn/ListingsStatisticCalculator/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/divanchyshyn/ListingsStatisticCalculator/actions/workflows/codeql-analysis.yml)
 
-.NET 6 based simple console app whihc determins makelaar's in Amsterdam with the most object listed for sale.
+.NET 6 based simple console app which determines makelaar's in Amsterdam with the most objects listed for sale.
 
 ## Technologies
 
