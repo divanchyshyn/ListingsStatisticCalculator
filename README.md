@@ -2,7 +2,7 @@
 [![.NET](https://github.com/divanchyshyn/ListingsStatisticCalculator/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/divanchyshyn/ListingsStatisticCalculator/actions/workflows/dotnet.yml)
 [![CodeQL](https://github.com/divanchyshyn/ListingsStatisticCalculator/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/divanchyshyn/ListingsStatisticCalculator/actions/workflows/codeql-analysis.yml)
 
-.NET 6 based simple console app which determines makelaar's in Amsterdam with the most objects listed for sale.
+.NET 6 based simple console App which determines makelaar's in Amsterdam with the most objects listed for sale.
 
 ## Technologies
 
@@ -15,7 +15,7 @@
 ## Getting Started
 
 1. Install the latest [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
-2. Navigate to `src/ListingsCalculator` and run `dotnet run` to launch the API
+2. Navigate to `src/ListingsCalculator` and run `dotnet run` to launch the App
 
 ## Results
 
